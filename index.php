@@ -14,12 +14,6 @@ echo "<center><pre style=\"color:red;\"><b>User IP</b>: $ip </pre></center>" // 
 <head>
     <title>I like memes</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-    <style>
-        @font-face { font-family: COOLVETI; src: url('COOLVETI.TTF'); }
-        h1, h2, h3, pre {
-            font-family: COOLVETI
-        }
-    </style>
 </head>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <body>
